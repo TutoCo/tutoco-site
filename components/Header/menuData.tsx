@@ -9,71 +9,65 @@ const menuData: Menu[] = [
   },
   {
     id: 2,
-    title: "Features",
+    title: "Tutees",
     newTab: false,
-    path: "/#features",
-  },
-  {
-    id: 2.1,
-    title: "Blog",
-    newTab: false,
-    path: "/blog",
+    submenu: [
+      {
+        id: 21,
+        title: "Courses/Subjects Offered",
+        newTab: false,
+        path: "/#features",
+      },
+      {
+        id: 22,
+        title: "Tutee Signup",
+        newTab: false,
+        path: "/blog",
+      },
+      {
+        id: 23,
+        title: "Our Tutors",
+        newTab: false,
+        path: "/blog",
+      },
+    ],
   },
   {
     id: 2.3,
-    title: "Docs",
+    title: "Tutor Application",
     newTab: false,
     path: "/docs",
   },
   {
     id: 3,
-    title: "Pages",
+    title: "About Us",
     newTab: false,
     submenu: [
       {
         id: 31,
-        title: "Blog Grid",
+        title: "TutoCo Team",
         newTab: false,
         path: "/blog",
       },
       {
-        id: 34,
-        title: "Sign In",
-        newTab: false,
-        path: "/auth/signin",
-      },
-      {
         id: 35,
-        title: "Sign Up",
+        title: "Our Partners",
         newTab: false,
-        path: "/auth/signup",
-      },
-      {
-        id: 35,
-        title: "Docs",
-        newTab: false,
-        path: "/docs",
-      },
-      {
-        id: 35.1,
-        title: "Support",
-        newTab: false,
-        path: "/support",
+        path: "/cta",
       },
       {
         id: 36,
-        title: "404",
+        title: "Blog",
         newTab: false,
-        path: "/error",
+        path: "/blog",
+      },
+      {
+        id: 37,
+        title: "Contact Us",
+        newTab: false,
+        path: "/support",
       },
     ],
-  },
-
-  {
-    id: 4,
-    title: "Support",
-    newTab: false,
-    path: "/support",
   },
 ];
 
