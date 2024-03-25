@@ -139,10 +139,10 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="/auth/signup"
+                        href="/auth/sign-up"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Tutee Signup
+                        Tutee Sign-up
                       </a>
                     </li>
                     <li>
