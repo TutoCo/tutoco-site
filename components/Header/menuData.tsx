@@ -14,18 +14,18 @@ const menuData: Menu[] = [
     submenu: [
       {
         id: 21,
-        title: "Courses/Subjects Offered",
-        newTab: false,
-        path: "/#features",
-      },
-      {
-        id: 22,
         title: "Tutee Signup",
         newTab: false,
-        path: "/blog",
+        path: "auth/signup",
       },
       {
         id: 23,
+        title: "Subjects Offered",
+        newTab: false,
+        path: "/docs",
+      },
+      {
+        id: 24,
         title: "Our Tutors",
         newTab: false,
         path: "/blog",
@@ -36,38 +36,19 @@ const menuData: Menu[] = [
     id: 2.3,
     title: "Tutor Application",
     newTab: false,
-    path: "/docs",
+    path: "/auth/signin",
   },
   {
-    id: 3,
-    title: "About Us",
+    id: 3.1,
+    title: "The TutoCo Team",
     newTab: false,
-    submenu: [
-      {
-        id: 31,
-        title: "TutoCo Team",
-        newTab: false,
-        path: "/blog",
-      },
-      {
-        id: 35,
-        title: "Our Partners",
-        newTab: false,
-        path: "/cta",
-      },
-      {
-        id: 36,
-        title: "Blog",
-        newTab: false,
-        path: "/blog",
-      },
-      {
-        id: 37,
-        title: "Contact Us",
-        newTab: false,
-        path: "/support",
-      },
-    ],
+    path: "/blog",
+  },
+  {
+    id: 3.2,
+    title: "Contact Us",
+    newTab: false,
+    path: "/support",
   },
 ];
 

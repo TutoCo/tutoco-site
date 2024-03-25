@@ -37,6 +37,7 @@ module.exports = {
         alabaster: "#FBFBFB",
         zumthor: "#EDF5FF",
         socialicon: "#D1D8E0",
+        tutoco: "#326FB4",
       },
       fontSize: {
         metatitle: ["12px", "20px"],

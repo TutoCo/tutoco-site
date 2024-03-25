@@ -3,45 +3,45 @@ import { Feature } from "@/types/feature";
 const featuresData: Feature[] = [
   {
     id: 1,
-    icon: "/images/icon/icon-01.svg",
-    title: "Crafted for SaaS",
+    icon: "/images/icon/icon-02.svg",
+    title: "Powerful Teaching",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Our tutors are highly qualified in their subject areas and will bring out the best in students.",
   },
   {
     id: 2,
-    icon: "/images/icon/icon-02.svg",
-    title: "High-quality Design",
+    icon: "/images/icon/icon-09.svg",
+    title: "Customization",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Students can choose their class subjects, times, lengths, and dates to match their preferences.",
   },
   {
     id: 3,
-    icon: "/images/icon/icon-03.svg",
-    title: "Next.js 13 + TypeScript",
+    icon: "/images/icon/icon-04.svg",
+    title: "Fast Learning",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Classes can be scheduled quickly to prepare for upcoming tests and exams.",
   },
   {
     id: 4,
-    icon: "/images/icon/icon-04.svg",
-    title: "Sanity Blog and Docs",
+    icon: "/images/icon/icon-06.svg",
+    title: "Adaptability",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Students can reschedule classes, sign-up for more courses, and find different tutors easily.",
   },
   {
     id: 5,
-    icon: "/images/icon/icon-05.svg",
-    title: "DB, Auth and Stripe",
+    icon: "/images/icon/icon-11.svg",
+    title: "Afforability",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Every class costs only $15 per hour and money goes directly to support tutors.",
   },
   {
     id: 6,
-    icon: "/images/icon/icon-06.svg",
-    title: "Regular Free Updates",
+    icon: "/images/icon/icon-10.svg",
+    title: "Community",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "TutoCo is a community of learners and we foster positive relationships between students and tutors.",
   },
 ];
 
