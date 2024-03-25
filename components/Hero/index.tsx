@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
-              <h1 className="mb-5 pr-16 text-7xl font-bold text-tutoco dark:text-white ">
+              <h1 className="mb-5 pr-16 text-7xl font-bold text-tutoco dark:text-white">
                 TutoCo
               </h1>
               <p className="text-tutoco font-bold text-2xl">

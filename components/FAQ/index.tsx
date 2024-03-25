@@ -15,7 +15,7 @@ const FAQ = () => {
   return (
     <>
       {/* <!-- ===== FAQ Start ===== --> */}
-      <section className="overflow-hidden pb-20 lg:pb-25 xl:pb-30">
+      <section className="overflow-hidden py-5 lg:py-10 xl:py-15">
         <div className="relative mx-auto max-w-c-1235 px-4 md:px-8 xl:px-0">
           <div className="absolute -bottom-16 -z-1 h-full w-full">
             <Image
@@ -60,7 +60,7 @@ const FAQ = () => {
                 </span>
               </h2>
 
-              <a
+              {/*<a
                 href="#"
                 className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
               >
@@ -76,7 +76,7 @@ const FAQ = () => {
                     fill="currentColor"
                   />
                 </svg>
-              </a>
+            </a>*/}
             </motion.div>
 
             <motion.div

@@ -16,7 +16,7 @@ const menuData: Menu[] = [
         id: 21,
         title: "Tutee Signup",
         newTab: false,
-        path: "auth/signup",
+        path: "/auth/signup",
       },
       {
         id: 23,

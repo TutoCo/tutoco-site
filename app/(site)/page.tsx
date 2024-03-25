@@ -25,7 +25,6 @@ export default function Home() {
       <Hero />
       <Feature />
       <Integration />
-      <FunFact />
       <FAQ />
       <CTA />
     </main>
