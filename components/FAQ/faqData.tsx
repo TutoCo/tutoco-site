@@ -3,12 +3,12 @@ import { FAQ } from "@/types/faq";
 const faqData: FAQ[] = [
   {
     id: 1,
-    quest: "How do I sign up for a tutoring session or group lesson?",
+    quest: "How do I sign up for a tutoring session \n or group lesson?",
     ans: "Tutees can sign-up for a tutoring session through the form on our <a href='/sign-up'><b>sign up page here</b></a> and on our Instagram @tutoco_. We require sessions to be scheduled 48 hours in advance.",
   },
   {
     id: 2,
-    quest: "What if I have to cancel or reschedule my tutoring session? Will I be refunded?",
+    quest: "What if I have to cancel or reschedule my tutoring \n session? Will I be refunded?",
     ans: "If the tutee needs to cancel or reschedule their tutoring session, they will be refunded as long as the request is made 24 hours in advance. If the cancellation or rescheduling request is made less than 24 hours in advance, we will charge an $8 fee.",
   },
   {
