@@ -4,7 +4,7 @@ const faqData: FAQ[] = [
   {
     id: 1,
     quest: "Lorem ipsum dolor sit amet, consectetur",
-    ans: "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities, digital experiences.",
+    ans: "Tutees can sign-up for a tutoring session at <a href='https://www.google.com'>here<a/>. We require sessions to be scheduled 48 hours in advance.",
   },
   {
     id: 2,
