@@ -48,9 +48,20 @@ const BlogPage = async () => {
       </section>
 
       <section className="pb-16 pt-24 md:pb-20 md:pt-28 lg:pb-24 lg:pt-32">
-      <p className="text-body-color dark:text-body-color-dark text-base">
-        If you find a bug, please report the issue in the GitHub repo.
-      </p>
+        <div className="container mx-auto">
+          <div className="-mx-4 flex flex-wrap">
+
+            <div className="w-full px-4 lg:w-3/4">
+              <div className="blog-details blog-details-docs shadow-three dark:bg-gray-dark rounded-sm bg-white px-8 py-11 sm:p-[55px] lg:mb-5 lg:px-8 xl:p-[55px]">
+                <p className="text-body-color dark:text-body-color-dark text-base">
+                  This document serves as a simple template to showcase a sample
+                  layout and format. It is solely created for demonstration
+                  purposes and is not intended for any official use.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       
     </>
