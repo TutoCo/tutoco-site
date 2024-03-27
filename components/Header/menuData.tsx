@@ -36,7 +36,7 @@ const menuData: Menu[] = [
     id: 2.3,
     title: "Tutor Application",
     newTab: false,
-    path: "/auth/tutor-apply",
+    path: "/tutor-apply",
   },
   {
     id: 3.1,
