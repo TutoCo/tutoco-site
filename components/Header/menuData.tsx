@@ -16,7 +16,7 @@ const menuData: Menu[] = [
         id: 21,
         title: "Sign-up",
         newTab: false,
-        path: "/auth/sign-up",
+        path: "/sign-up",
       },
       {
         id: 23,
