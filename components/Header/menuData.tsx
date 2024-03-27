@@ -16,7 +16,7 @@ const menuData: Menu[] = [
         id: 21,
         title: "Sign-up",
         newTab: false,
-        path: "/auth/sign-up",
+        path: "/sign-up",
       },
       {
         id: 23,
@@ -36,7 +36,7 @@ const menuData: Menu[] = [
     id: 2.3,
     title: "Tutor Application",
     newTab: false,
-    path: "/auth/tutor-apply",
+    path: "/tutor-apply",
   },
   {
     id: 3.1,

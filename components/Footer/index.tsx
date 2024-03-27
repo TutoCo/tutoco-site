@@ -139,7 +139,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="/auth/sign-up"
+                        href="/sign-up"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Tutee Sign-up
@@ -155,7 +155,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="/auth/tutor-apply"
+                        href="/tutor-apply"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Tutor Application
