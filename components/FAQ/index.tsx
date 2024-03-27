@@ -51,7 +51,7 @@ const FAQ = () => {
               className="animate_left md:w-2/5 lg:w-1/2"
             >
               <span className="font-medium uppercase text-black dark:text-white">
-                FAQS
+                FAQs FOR TUTEES
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 Frequently Asked
