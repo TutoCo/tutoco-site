@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 const BlogPage = async () => {
   return (
     <>
-      <section className="py-25 lg:py-30 xl:py-35">
+      <section className="pt-25 pb-5 lg:pt-30 pb-6 xl:pt-35 pb-7">
         <div className="mx-auto max-w-c-1315 px-4 md:px-8 xl:px-0">
           {/* <!-- Section Title Start --> */}
           <div className="animate_top mx-auto text-center text-tutoco font-medium">
