@@ -46,7 +46,7 @@ const BlogPage = async () => {
         </div> */}
       {/* <!-- ===== Projects Grid End ===== --> */}
       
-      <p className="justify-center text-body-color dark:text-body-color-dark text-base">
+      <p className="justify-center items-center text-body-color dark:text-body-color-dark text-base">
         If you find a bug, please report the issue in the GitHub repo.
       </p>
 
