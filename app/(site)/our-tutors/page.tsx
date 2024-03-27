@@ -1,10 +1,10 @@
-import BlogData from "@/components/Blog/blogData";
-import BlogItem from "@/components/Blog/BlogItem";
+import BlogData from "@/components/Blog copy/blogData";
+import BlogItem from "@/components/Blog copy/BlogItem";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Our Team",
-  description: "The TutoCo Team",
+  title: "Our Tutors",
+  description: "The TutoCo Tutors",
   // other metadata
 };
 
