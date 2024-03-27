@@ -28,7 +28,7 @@ const menuData: Menu[] = [
         id: 24,
         title: "Our Tutors",
         newTab: false,
-        path: "/our-team",
+        path: "/our-tutors",
       },
     ],
   },
