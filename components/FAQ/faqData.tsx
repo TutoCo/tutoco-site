@@ -4,7 +4,7 @@ const faqData: FAQ[] = [
   {
     id: 1,
     quest: "Lorem ipsum dolor sit amet, consectetur",
-    ans: "Tutees can sign-up for a tutoring session at <a href='https://www.google.com'>here<a/>. We require sessions to be scheduled 48 hours in advance.",
+    ans: "Tutees can sign-up for a tutoring session at <a href='https://www.google.com'>our sign up page here</a>. We require sessions to be scheduled 48 hours in advance.",
   },
   {
     id: 2,
