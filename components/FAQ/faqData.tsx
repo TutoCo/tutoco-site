@@ -4,7 +4,7 @@ const faqData: FAQ[] = [
   {
     id: 1,
     quest: "How do I sign up for a tutoring session or group lesson?",
-    ans: "Tutees can sign-up for a tutoring session through the form on our <a href='/sign-up'><b>sign up page here</b></a> and on our Instagram @tutoco_. We require sessions to be scheduled 48 hours in advance.",
+    ans: "Tutees can sign-up for a tutoring session through the form on our <a href='/sign-up'><b>sign up page here</b></a> and on our Instagram <a href='https://www.instagram.com/tutoco_/'><b>@tutoco_</b></a>. We require sessions to be scheduled 48 hours in advance.",
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const faqData: FAQ[] = [
   {
     id: 7,
     quest: "How can I sign-up to be informed of future TutoCo opportunities?",
-    ans: "Students can sign-up for our TutoCo <a href='bit.ly/tutocomail'><b>email list here</b></a>.",
+    ans: "Students can sign-up for our TutoCo <a href='https://bit.ly/tutocomail'><b>email list here</b></a>.",
   },
   {
     id: 8,
