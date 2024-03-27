@@ -47,7 +47,7 @@ const BlogPage = async () => {
       {/* <!-- ===== Projects Grid End ===== --> */}
       </section>
 
-      <section className="pb-16 pt-24 md:pb-20 md:pt-28 lg:pb-24 lg:pt-32 my-0">
+      <section className="pb-4 pt-6 md:pb-5 md:pt-7 lg:pb-6 lg:pt-8">
         <div className="container mx-auto">
           <div className="-mx-4 flex flex-wrap">
 
