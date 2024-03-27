@@ -48,7 +48,7 @@ const BlogPage = async () => {
       <div className="mx-auto max-w-c-1390 py-20 px-4 md:px-8 2xl:px-0">
           <SectionHeader
             headerInfo={{
-              description: `To report a bug with the website, please report the issue in our GitHub repo.`,
+              description: `If you find a bug with the website, please report the issue in our GitHub repo.`,
             }}
           />
         </div>
