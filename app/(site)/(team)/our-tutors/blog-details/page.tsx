@@ -1,5 +1,5 @@
-import RelatedPost from "@/components/Blog/RelatedPost";
-import SharePost from "@/components/Blog/SharePost";
+import RelatedPost from "@/components/Blog-tutors/RelatedPost";
+import SharePost from "@/components/Blog-tutors/SharePost";
 import { Metadata } from "next";
 import Image from "next/image";
 
