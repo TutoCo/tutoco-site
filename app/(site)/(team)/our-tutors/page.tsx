@@ -1,5 +1,5 @@
-import BlogData from "@/components/Blog copy/blogData";
-import BlogItem from "@/components/Blog copy/BlogItem";
+import BlogData from "@/components/Blog-tutors/blogData";
+import BlogItem from "@/components/Blog-tutors/BlogItem";
 import SectionHeader from "components/Common/SectionHeader";
 import { Metadata } from "next";
 
