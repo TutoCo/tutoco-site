@@ -9,8 +9,8 @@ TutoCo's website.
 
 ### Other places you can find us
 * Instagram @ [tutoco_](https://www.instagram.com/tutoco_/)  
-
-
+  
+  
 [Documentation](https://nextjstemplates.com/docs)
 
 Generated From and Made with Solid - Next.js Templates web template and starter kit.
