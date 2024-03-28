@@ -17,5 +17,6 @@ TutoCo's website.
 
 [Documentation](https://nextjstemplates.com/docs)
 
+Created by the TutoCo Dev Team <br />
 Generated From and Made with [Solid - Next.js Templates](https://github.com/NextJSTemplates/solid-nextjs) web template and starter kit. <br />
 Hosted using [Vercel](https://vercel.com/)
