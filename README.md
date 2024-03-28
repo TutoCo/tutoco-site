@@ -8,7 +8,8 @@ TutoCo's website.
 * ### Got Questions? [Ask us here!](https://tutoco-site.vercel.app/support)
 
 ### Other places you can find us
-* Instagram @ [tutoco_](https://www.instagram.com/tutoco_/)\
+* Instagram @ [tutoco_](https://www.instagram.com/tutoco_/)<br />
+<br />
 
 
 [Documentation](https://nextjstemplates.com/docs)
