@@ -15,4 +15,4 @@ TutoCo's website.
 [Documentation](https://nextjstemplates.com/docs)
 
 Generated From and Made with [Solid - Next.js Templates](https://github.com/NextJSTemplates/solid-nextjs) web template and starter kit. <br />
-Hosted using [Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fsolid-nextjs).
+Hosted using [![Vercel](https://vercel.com/button)](https://vercel.com/)
