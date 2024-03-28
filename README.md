@@ -1,4 +1,4 @@
-# [https://tutoco-site.vercel.app/](https://tutoco-site.vercel.app/)
+# [tutoco-site.vercel.app](https://tutoco-site.vercel.app/)
 
 TutoCo's website.
 
