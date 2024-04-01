@@ -142,7 +142,7 @@ const Footer = () => {
                         href="/sign-up"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Tutee Sign-up
+                        Tutee Sign-Up
                       </a>
                     </li>
                     <li>
@@ -198,7 +198,7 @@ const Footer = () => {
                       />
 
                       <button
-                        aria-label="signup to newsletter"
+                        aria-label="sign up to newsletter"
                         className="absolute right-0 p-4"
                       >
                         <svg
