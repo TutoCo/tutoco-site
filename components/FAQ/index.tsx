@@ -48,7 +48,7 @@ const FAQ = () => {
               whileInView="visible"
               transition={{ duration: 1, delay: 0.1 }}
               viewport={{ once: true }}
-              className="animate_left md:w-2/5 lg:w-2/5 position: sticky"
+              className="sticky top-0 animate_left md:w-2/5 lg:w-2/5"
             >
               <span className="font-medium uppercase text-black dark:text-white">
                 FAQs FOR TUTEES
