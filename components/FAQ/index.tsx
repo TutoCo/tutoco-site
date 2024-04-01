@@ -50,7 +50,7 @@ const FAQ = () => {
               viewport={{ once: true }}
               className="animate_left md:w-2/5 lg:w-2/5"
             >
-              <div class="sticky top-0 h-screen bg-red-500 flex justify-center items-center">
+              <div className="sticky top-0 h-screen bg-red-500 flex justify-center items-center">
                 <span className="font-medium uppercase text-black dark:text-white">
                   FAQs FOR TUTEES
                 </span>
