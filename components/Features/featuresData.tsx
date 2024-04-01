@@ -27,7 +27,7 @@ const featuresData: Feature[] = [
     icon: "/images/icon/icon-06.svg",
     title: "Adaptability",
     description:
-      "Students can reschedule classes, sign-up for more courses, and find different tutors easily.",
+      "Students can reschedule classes, sign up for more courses, and find different tutors easily.",
   },
   {
     id: 5,
