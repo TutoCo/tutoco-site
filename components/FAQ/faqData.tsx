@@ -24,7 +24,7 @@ const faqData: FAQ[] = [
   {
     id: 5,
     quest: "What sets your tutors apart from other tutors?",
-    ans: "As high school students, are tutors are equipped with the firsthand experience and knowledge necessary to support and aid tutees in mastering difficult concepts and subjects. As our tutors are students themselves, they are able to establish meaningful connections with tutees and cultivate an interactive, healthy and motivational learning environment conducive to academic success and exploration.",
+    ans: "As high school students, our tutors are equipped with the firsthand experience and knowledge necessary to support and aid tutees in mastering difficult concepts and subjects. As our tutors are students themselves, they are able to establish meaningful connections with tutees and cultivate an interactive, healthy and motivational learning environment conducive to academic success and exploration.",
   },
   {
     id: 6,
