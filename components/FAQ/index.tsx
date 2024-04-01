@@ -31,7 +31,7 @@ const FAQ = () => {
               className="hidden dark:block"
             />
           </div>
-          <div className="sticky top-0 flex flex-wrap gap-8 md:flex-nowrap md:items-top xl:gap-32.5">
+          <div className="flex flex-wrap gap-8 md:flex-nowrap md:items-top xl:gap-32.5">
             <motion.div
               variants={{
                 hidden: {
@@ -50,12 +50,12 @@ const FAQ = () => {
               viewport={{ once: true }}
               className="animate_left md:w-2/5 lg:w-2/5"
             >
-              <span className="font-medium uppercase text-black dark:text-white">
+              <span className="sticky top-0 font-medium uppercase text-black dark:text-white">
                 FAQs FOR TUTEES
               </span>
-              <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
+              <h2 className="sticky top-0 relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 Frequently Asked
-                <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg2 dark:before:bg-titlebgdark">
+                <span className="sticky top-0 relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg2 dark:before:bg-titlebgdark">
                   Questions
                 </span>
               </h2>
