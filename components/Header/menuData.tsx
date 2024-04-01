@@ -14,7 +14,7 @@ const menuData: Menu[] = [
     submenu: [
       {
         id: 21,
-        title: "Sign-up",
+        title: "Sign-Up",
         newTab: false,
         path: "/sign-up",
       },
