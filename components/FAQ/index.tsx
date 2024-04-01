@@ -50,7 +50,7 @@ const FAQ = () => {
               viewport={{ once: true }}
               className="animate_left md:w-2/5 lg:w-2/5"
             >
-              <div className="relative">
+
               <span className="font-medium uppercase text-black dark:text-white">
                 FAQs FOR TUTEES
               </span>
@@ -58,7 +58,8 @@ const FAQ = () => {
                 Frequently Asked<br/>
                 Questions
               </h2>
-              </div>
+              <div className="sticky inset-0>A</div>
+
 
               {/*<a
                 href="#"
