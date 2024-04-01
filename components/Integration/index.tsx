@@ -11,9 +11,9 @@ const Integration = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: `INTEGRATIONS`,
-              subtitle: `Remotely Maintain Your Data, From Anywhere, Anytime.`,
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+              title: `What Sets Us Apart`,
+              subtitle: `Unlike other tutoring companies...`,
+              description: `TutoCo was founded by students of the International Baccalaureate Program. The International Baccalaureate offers rigorous coursework to high school students, broadening their perspectives and academic interests through college-level material. Our experience has allowed us to offer an environment that no other tutoring companies can create, one that is specifically tailored to build an interactive and healthy relationship between the tutee and the subject they need assistance in. Our company is designed to be flexible to our tutees' needs, and actively participates in community events to spread knowledge to all. For us, all knowledge is good knowledge.`,
             }}
           />
 

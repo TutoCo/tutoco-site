@@ -28,7 +28,7 @@ const Footer = () => {
                 viewport={{ once: true }}
                 className="animate_top w-1/4 lg:w-1/4"
               >
-                <a href="index.html" className="relative">
+                <a href="/#" className="relative">
                   <Image
                     width={110}
                     height={80}
@@ -131,7 +131,7 @@ const Footer = () => {
                   <ul>
                     <li>
                       <a
-                        href="#"
+                        href="/#"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Home
@@ -139,15 +139,15 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="/auth/signup"
+                        href="/sign-up"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Tutee Signup
+                        Tutee Sign-up
                       </a>
                     </li>
                     <li>
                       <a
-                        href="/docs"
+                        href="/subjects-offered"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Subjects Offered
@@ -155,7 +155,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="/auth/signin"
+                        href="/tutor-apply"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Tutor Application
