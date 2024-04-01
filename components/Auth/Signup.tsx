@@ -14,7 +14,7 @@ const Signup = () => {
 
   return (
     <>
-      {/* <!-- ===== SignUp Form Start ===== --> */}
+      {/* <!-- ===== Sign Up Form Start ===== --> */}
       <section className="pb-12.5 pt-32.5 lg:pb-25 lg:pt-45 xl:pb-30 xl:pt-50">
         <div className="relative z-1 mx-auto max-w-c-1016 px-7.5 pb-7.5 pt-10 lg:px-15 lg:pt-15 xl:px-20 xl:pt-20">
           <div className="absolute left-0 top-0 -z-1 h-2/3 w-full rounded-lg bg-gradient-to-t from-transparent to-[#dee7ff47] dark:bg-gradient-to-t dark:to-[#252A42]"></div>
@@ -52,7 +52,7 @@ const Signup = () => {
             className="animate_top rounded-lg bg-white px-7.5 pt-7.5 shadow-solid-8 dark:border dark:border-strokedark dark:bg-black xl:px-15 xl:pt-15"
           >
             <h2 className="mb-5 text-center text-3xl font-semibold text-black dark:text-white xl:text-sectiontitle2">
-              Signup for Tutoring!
+              Sign Up for Tutoring!
             </h2>
             <p className="mb-2 text-tutoco font-bold">
               Enter your information using the form below, follow the instructions on the form, and we'll notify you with additional information.
@@ -79,7 +79,7 @@ const Signup = () => {
               <a
                 href="https://forms.gle/yE7DiFLLeibc5qxD9"
                 target="_blank"
-                aria-label="signup with google"
+                aria-label="sign up with google"
                 className="text-body-color font-bold dark:text-body-color-dark dark:shadow-two mb-6 flex w-full items-center justify-center rounded-sm border border-stroke bg-[#f8f8f8] px-6 py-3 text-base outline-none transition-all duration-300 hover:border-primary hover:bg-primary/5 hover:text-primary dark:border-transparent dark:bg-[#2C303B] dark:hover:border-primary dark:hover:bg-primary/5 dark:hover:text-primary dark:hover:shadow-none"
               >
                 <span className="mr-3">
@@ -94,7 +94,7 @@ const Signup = () => {
 	                    c5.14,0,9.321-4.182,9.321-9.321S70.638,157.805,65.499,157.805z M82.499,159.626h79.5v15h-79.5V159.626z"/>
                   </svg>
                 </span>
-                Signup with Google Forms
+                Sign Up with Google Forms
               </a>
 
               {/*<button
