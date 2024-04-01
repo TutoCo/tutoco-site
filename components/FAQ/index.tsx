@@ -58,7 +58,7 @@ const FAQ = () => {
                 Frequently Asked<br/>
                 Questions
               </h2>
-              <div className="sticky inset-0>A</div>
+              <div className="sticky inset-0">A</div>
 
 
               {/*<a
