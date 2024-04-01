@@ -12,7 +12,92 @@ const Signin = () => {
 
   return (
     <>
-      {/* <!-- ===== SignIn Form Start ===== --> */}
+    <section className="pb-12.5 pt-32.5 lg:pb-25 lg:pt-45 xl:pb-30 xl:pt-50">
+        <div className="relative z-1 mx-auto max-w-c-1016 px-7.5 pb-7.5 pt-10 lg:px-15 lg:pt-15 xl:px-20 xl:pt-20">
+          <div className="absolute left-0 top-0 -z-1 h-2/3 w-full rounded-lg bg-gradient-to-t from-transparent to-[#dee7ff47] dark:bg-gradient-to-t dark:to-[#252A42]"></div>
+          <div className="absolute bottom-17.5 left-0 -z-1 h-1/3 w-full">
+            <Image
+              src="/images/shape/shape-dotted-light.svg"
+              alt="Dotted"
+              className="dark:hidden"
+              fill
+            />
+            <Image
+              src="/images/shape/shape-dotted-dark.svg"
+              alt="Dotted"
+              className="hidden dark:block"
+              fill
+            />
+          </div>
+
+          <motion.div
+            variants={{
+              hidden: {
+                opacity: 0,
+                y: -20,
+              },
+
+              visible: {
+                opacity: 1,
+                y: 0,
+              },
+            }}
+            initial="hidden"
+            whileInView="visible"
+            transition={{ duration: 1, delay: 0.1 }}
+            viewport={{ once: true }}
+            className="animate_top rounded-lg bg-white px-7.5 pt-7.5 shadow-solid-8 dark:border dark:border-strokedark dark:bg-black xl:px-15 xl:pt-15"
+          >
+            <h2 className="mb-5 text-center text-3xl font-semibold text-black dark:text-white xl:text-sectiontitle2">
+              Apply to be a Tutor!
+            </h2>
+            <p className="mb-2 text-tutoco font-bold">
+              Enter your information using the form below, follow the instructions on the form, and we'll notify you with additional information.
+            </p>
+            <p className="mb-5 text-tutoco font-medium">
+              After applying, candidates will go through an interviewing process. If you are selected to be a tutor, you must undergo training before
+              you can be paired with a student.
+            </p>
+            <p className="mb-2 text-tutoco font-bold">
+              Before applying, keep in mind:
+            </p>
+            <ul className="list-disc ml-10 font-medium text-tutoco mb-5">
+              <li>
+                You must be at least a high-school freshman (9th grade)
+              </li>
+              <li>
+                Prepare a submittable resume
+              </li>
+              <li>
+                Have a Discord account for communication
+              </li>
+            </ul>
+            <div className="flex items-center gap-8">
+              <a
+                href="https://forms.gle/XS8EDjw5V4zhjwaVA"
+                target="_blank"
+                aria-label="signup with google"
+                className="text-body-color font-bold dark:text-body-color-dark dark:shadow-two mb-6 flex w-full items-center justify-center rounded-sm border border-stroke bg-[#f8f8f8] px-6 py-3 text-base outline-none transition-all duration-300 hover:border-primary hover:bg-primary/5 hover:text-primary dark:border-transparent dark:bg-[#2C303B] dark:hover:border-primary dark:hover:bg-primary/5 dark:hover:text-primary dark:hover:shadow-none"
+              >
+                <span className="mr-3">
+                  <svg fill="#680BBA" height="40px" width="40px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 219.376 219.376">
+                    <path d="M127.518,0H40.63c-6.617,0-12,5.383-12,12v195.376c0,6.617,5.383,12,12,12h138.117c6.617,0,12-5.383,12-12V59.227
+	                    c0-3.204-1.248-6.217-3.514-8.484l-51.364-47.36C133.619,1.2,130.661,0,127.518,0z M175.747,204.376H43.63V15h71.768v40.236
+	                    c0,8.885,7.225,16.114,16.105,16.114h44.244V204.376z M131.503,56.35c-0.609,0-1.105-0.5-1.105-1.114v-31.58l34.968,32.693H131.503z
+	                    M65.499,97.805c-5.14,0-9.321,4.182-9.321,9.321c0,5.14,4.182,9.321,9.321,9.321c5.14,0,9.321-4.182,9.321-9.321
+	                    C74.82,101.987,70.638,97.805,65.499,97.805z M82.499,99.627h79.5v15h-79.5V99.627z M65.499,127.805
+	                    c-5.14,0-9.321,4.182-9.321,9.321s4.182,9.321,9.321,9.321c5.14,0,9.321-4.182,9.321-9.321S70.638,127.805,65.499,127.805z
+	                    M82.499,129.626h79.5v15h-79.5V129.626z M65.499,157.805c-5.14,0-9.321,4.182-9.321,9.321s4.182,9.321,9.321,9.321
+	                    c5.14,0,9.321-4.182,9.321-9.321S70.638,157.805,65.499,157.805z M82.499,159.626h79.5v15h-79.5V159.626z"/>
+                  </svg>
+                </span>
+                Apply through Google Forms
+              </a>
+              </div>
+          </motion.div>
+        </div>
+      </section>
+      {/* <!-- ===== SignIn Form Start ===== -->
       <section className="pb-12.5 pt-32.5 lg:pb-25 lg:pt-45 xl:pb-30 xl:pt-50">
         <div className="relative z-1 mx-auto max-w-c-1016 px-7.5 pb-7.5 pt-10 lg:px-15 lg:pt-15 xl:px-20 xl:pt-20">
           <div className="absolute left-0 top-0 -z-1 h-2/3 w-full rounded-lg bg-gradient-to-t from-transparent to-[#dee7ff47] dark:bg-gradient-to-t dark:to-[#252A42]"></div>
@@ -218,7 +303,7 @@ const Signin = () => {
           </motion.div>
         </div>
       </section>
-      {/* <!-- ===== SignIn Form End ===== --> */}
+      <!-- ===== SignIn Form End ===== --> */}
     </>
   );
 };

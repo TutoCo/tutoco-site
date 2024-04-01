@@ -67,13 +67,13 @@ const Contact = () => {
                 <div className="mb-7.5 flex flex-col gap-7.5 lg:flex-row lg:justify-between lg:gap-14">
                   <input
                     type="text"
-                    placeholder="Full name"
+                    placeholder="Full name*"
                     className="w-full border-b border-stroke bg-transparent pb-3.5 focus:border-waterloo focus:placeholder:text-black focus-visible:outline-none dark:border-strokedark dark:focus:border-manatee dark:focus:placeholder:text-white lg:w-1/2"
                   />
 
                   <input
                     type="email"
-                    placeholder="Email address"
+                    placeholder="Email address*"
                     className="w-full border-b border-stroke bg-transparent pb-3.5 focus:border-waterloo focus:placeholder:text-black focus-visible:outline-none dark:border-strokedark dark:focus:border-manatee dark:focus:placeholder:text-white lg:w-1/2"
                   />
                 </div>
@@ -81,7 +81,7 @@ const Contact = () => {
                 <div className="mb-12.5 flex flex-col gap-7.5 lg:flex-row lg:justify-between lg:gap-14">
                   <input
                     type="text"
-                    placeholder="Subject"
+                    placeholder="Subject*"
                     className="w-full border-b border-stroke bg-transparent pb-3.5 focus:border-waterloo focus:placeholder:text-black focus-visible:outline-none dark:border-strokedark dark:focus:border-manatee dark:focus:placeholder:text-white lg:w-1/2"
                   />
 
@@ -186,11 +186,42 @@ const Contact = () => {
             </div>*/}
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
-                  Email Address
+                  Our Email Addresses
                 </h3>
-                <p>
-                  <a href="#">???</a>
-                </p>
+                <p className="text-tutoco">
+                    Tutee Inquiries
+                  </p>
+                  <a
+                    href="mailto:tutoco.communications@gmail.com"
+                    target="_blank"
+                    className="font-medium text-black dark:text-white text-sm"
+                  >
+                    <p className="mb-5">
+                    tutoco.communications@gmail.com
+                    </p>
+                  </a>
+                  <p className="text-tutoco">
+                    Tutor Inquiries
+                  </p>
+                  <a
+                    href="mailto:tutoco.tutoring@gmail.com"
+                    target="_blank"
+                    className="font-medium text-black dark:text-white text-sm"
+                  >
+                    <p className="mb-5">
+                    tutoco.tutoring@gmail.com
+                    </p>
+                  </a>
+                  <p className="text-tutoco">
+                    Business Inquiries
+                  </p>
+                  <a
+                    href="mailto:tutoco.team@gmail.com"
+                    target="_blank"
+                    className="font-medium text-black dark:text-white text-sm"
+                  >
+                    tutoco.team@gmail.com
+                  </a>
               </div>
               {/*<div>
                 <h4 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">

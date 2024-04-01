@@ -6,28 +6,53 @@ const SidebarLink = () => {
     <>
       <li className="block">
         <Link
-          href={`/docs`}
-          className={`flex w-full rounded-sm bg-stroke px-3 py-2 text-base text-black dark:bg-blackho dark:text-white`}
+          href={`/subjects-offered`}
+          className={`flex w-full rounded-sm bg-stroke px-3 py-2 text-base text-tutoco font-bold dark:bg-blackho dark:text-white`}
         >
-          Introduction
+          Subject Catalog
+        </Link>
+        <hr className="h-px my-2 bg-tutoco border-0"></hr>
+        <Link
+          href={`/subjects-offered#0`}
+          className={`flex w-full rounded-sm px-3 py-2 text-base font-medium text-black dark:text-white `}
+        >
+          Writing and Essays
         </Link>
         <Link
-          href={`/docs`}
-          className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
+          href={`/subjects-offered#2`}
+          className={`flex w-full rounded-sm px-3 py-2 text-base font-medium text-black dark:text-white `}
         >
-          Bootstrap Template Guide
+          Mathematics
         </Link>
         <Link
-          href={`/docs`}
-          className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
+          href={`/subjects-offered#9`}
+          className={`flex w-full rounded-sm px-3 py-2 text-base font-medium text-black dark:text-white `}
         >
-          Style Guide
+          Language
         </Link>
         <Link
-          href={`/docs`}
-          className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
+          href={`/subjects-offered#13`}
+          className={`flex w-full rounded-sm px-3 py-2 text-base font-medium text-black dark:text-white `}
         >
-          Using Tailwind Components
+          History
+        </Link>
+        <Link
+          href={`/subjects-offered#17`}
+          className={`flex w-full rounded-sm px-3 py-2 text-base font-medium text-black dark:text-white `}
+        >
+          Science
+        </Link>
+        <Link
+          href={`/subjects-offered#21`}
+          className={`flex w-full rounded-sm px-3 py-2 text-base font-medium text-black dark:text-white `}
+        >
+          SAT
+        </Link>
+        <Link
+          href={`/subjects-offered#24`}
+          className={`flex w-full rounded-sm px-3 py-2 text-base font-medium text-black dark:text-white `}
+        >
+          Programming
         </Link>
       </li>
     </>

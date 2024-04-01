@@ -7,20 +7,26 @@ const Integration = () => {
   return (
     <>
       <section>
-        <div className="mx-auto max-w-c-1390 py-20 px-4 md:px-8 2xl:px-0">
+        <div className="mx-auto max-w-c-1390 py-40 px-4 md:px-8 2xl:px-0 text-tutoco font-medium">
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
               title: `What Sets Us Apart`,
               subtitle: `Unlike other tutoring companies...`,
-              description: `TutoCo was founded by students of the International Baccalaureate Program. The International Baccalaureate offers rigorous coursework to high school students, broadening their perspectives and academic interests through college-level material. Our experience has allowed us to offer an environment that no other tutoring companies can create, one that is specifically tailored to build an interactive and healthy relationship between the tutee and the subject they need assistance in. Our company is designed to be flexible to our tutees' needs, and actively participates in community events to spread knowledge to all. For us, all knowledge is good knowledge.`,
+              description: `TutoCo was founded by students of the International Baccalaureate Program (IB). 
+              IB offers rigorous coursework to high school students, broadening their perspectives and academic 
+              interests through college-level material. Our experience has allowed us to offer an environment 
+              that no other tutoring companies can create, specifically tailored to build an interactive and 
+              healthy relationship between the tutee and the subject they need assistance in. Our company is 
+              designed to be flexible to our tutees' needs, and actively participates in community events to 
+              spread knowledge to all. For us, all knowledge is good knowledge.`,
             }}
           />
 
           {/* <!-- Section Title End --> */}
         </div>
 
-        <div className="pattern-dots pattern-blue-500 pattern-bg-white pattern-size-4 pattern-opacity-10 relative z-50 mx-auto mt-15 max-w-c-1154 px-4 md:px-8 xl:mt-20 xl:px-0">
+        {/*<div className="pattern-dots pattern-blue-500 pattern-bg-white pattern-size-4 pattern-opacity-10 relative z-50 mx-auto mt-15 max-w-c-1154 px-4 md:px-8 xl:mt-20 xl:px-0">
           <div className="absolute -top-3/4 left-0 right-0 -z-1 mx-auto h-full w-full">
             <Image
               width={1200}
@@ -329,7 +335,7 @@ const Integration = () => {
               </div>
             </motion.div>
           </div>
-        </div>
+            </div>*/}
       </section>
     </>
   );

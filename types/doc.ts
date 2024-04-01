@@ -1,6 +1,6 @@
 export type DOC = {
-  date: string;
+  id: string;
   title: string;
-  slug: string;
   description: string;
+  tech: string;
 };
