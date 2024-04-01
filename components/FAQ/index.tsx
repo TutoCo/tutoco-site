@@ -53,7 +53,7 @@ const FAQ = () => {
               <span className="font-medium uppercase text-black dark:text-white">
                 FAQs FOR TUTEES
               </span>
-              <h2 className="sticky top-0 left-0 right-0 mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
+              <h2 className="sticky top-20 left-0 mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 Frequently Asked<br/>
                 Questions
               </h2>
