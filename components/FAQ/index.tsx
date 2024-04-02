@@ -54,12 +54,12 @@ const FAQ = () => {
               <span className="font-medium uppercase text-black dark:text-white">
                 FAQs FOR TUTEES
               </span>
-              <h2 className="sticky inset-0 mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
+              <h2 className="sticky top-[120px] mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 Frequently Asked<br/>
                 Questions
               </h2>
-              <div className="sticky bottom-0 left-0 h-16 w-16 bg-red-500">A</div>
-
+{/*               <div className="sticky bottom-0 left-0 h-16 w-16 bg-red-500">A</div>
+ */}
 
               {/*<a
                 href="#"
