@@ -39,15 +39,15 @@ const menuData: Menu[] = [
     submenu: [
       {
         id: 31,
-        title: "Our Tutors",
-        newTab: false,
-        path: "/our-tutors",
-      },
-      {
-        id: 32,
         title: "Executive Board",
         newTab: false,
         path: "/board",
+      },
+      {
+        id: 32,
+        title: "Our Tutors",
+        newTab: false,
+        path: "/our-tutors",
       },
       {
         id: 33,
