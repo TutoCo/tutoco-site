@@ -1,6 +1,6 @@
 import { Blog } from "@/types/blog";
 
-const BlogData: Blog[] = [
+const BlogData_exec: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
@@ -25,6 +25,9 @@ const BlogData: Blog[] = [
     metadata:
       "Jennifer Wan is a student at Richard Montgomery High School. In her free time, she enjoys drawing, design, and creative writing (with music on full blast). She also likes to play the violin, swim, and do mixed martial arts.",
   },
+];
+
+const BlogData_mark: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-03.png",
@@ -57,6 +60,9 @@ const BlogData: Blog[] = [
     metadata:
       "Hey, I'm Ruslan. I am currently a junior at Richard Montgomery High School. I love playing music and collecting things.",
   },
+];
+
+const BlogData_tuto: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
@@ -89,6 +95,9 @@ const BlogData: Blog[] = [
     metadata:
       "Charisse Fung is a junior at Richard Montgomery High School. She has worked with the Tacy Foundation as a chief intern and is one of the student co-presidents of Glorystar Children's Choir. She is excited to be able to help and spread TutoCo's mission of offering educational aid and a safe environment for academic growth!",
   },
+];
+
+const BlogData_comm: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
@@ -129,6 +138,9 @@ const BlogData: Blog[] = [
     metadata:
       "Hi, I'm James! I'm a junior at Richard Montgomery High School. I enjoy table tennis and violin—ask me any questions about them!",
   },
+];
+
+const BlogData_logi: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
@@ -155,4 +167,8 @@ const BlogData: Blog[] = [
   },
 ];
 
-export default BlogData;
+export class BlogData_exec;
+export class BlogData_mark;
+export class BlogData_tuto;
+export class BlogData_comm;
+export class BlogData_logi;
