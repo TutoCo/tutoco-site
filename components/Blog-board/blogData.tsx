@@ -167,8 +167,8 @@ const BlogData_logi: Blog[] = [
   },
 ];
 
-export class BlogData_exec;
-export class BlogData_mark;
-export class BlogData_tuto;
-export class BlogData_comm;
-export class BlogData_logi;
+export class { BlogData_exec } from "./blogData";
+export class { BlogData_mark } from "./blogData";
+export class { BlogData_tuto } from "./blogData";
+export class { BlogData_comm } from "./blogData";
+export class { BlogData_logi } from "./blogData";
