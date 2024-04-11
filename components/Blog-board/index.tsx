@@ -1,8 +1,12 @@
 import React from "react";
 import SectionHeader from "../Common/SectionHeader";
 import BlogItem from "./BlogItem";
-import * from "./blogData";
-// import { BlogData_exec, BlogData_exec, BlogData_exec, BlogData_exec, BlogData_exec } from "./blogData";
+import BlogData_exec from "./blogData_exec";
+import BlogData_mark from "./blogData_mark";
+import BlogData_tuto from "./blogData_tuto";
+import BlogData_comm from "./blogData_comm";
+import BlogData_logi from "./blogData_logi";
+
 
 const Blog = async () => {
   return (
