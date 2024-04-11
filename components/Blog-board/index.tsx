@@ -19,16 +19,16 @@ const Blog = async () => {
           {BlogData_exec.slice(0, 3).map((blog, key) => (
             <BlogItem blog={blog} key={key} />
           ))}
-          {BlogData.slice(0, 3).map((blog, key) => (
+          {BlogData_mark.slice(0, 3).map((blog, key) => (
             <BlogItem_mark blog={blog} key={key} />
           ))}
-          {BlogData.slice(0, 3).map((blog, key) => (
+          {BlogData_tuto.slice(0, 3).map((blog, key) => (
             <BlogItem_tuto blog={blog} key={key} />
           ))}
-          {BlogData.slice(0, 3).map((blog, key) => (
+          {BlogData_comm.slice(0, 3).map((blog, key) => (
             <BlogItem_comm blog={blog} key={key} />
           ))}
-          {BlogData.slice(0, 3).map((blog, key) => (
+          {BlogData_logi.slice(0, 3).map((blog, key) => (
             <BlogItem_logi blog={blog} key={key} />
           ))}
         </div>
