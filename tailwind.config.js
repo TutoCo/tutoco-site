@@ -38,6 +38,8 @@ module.exports = {
         zumthor: "#EDF5FF",
         socialicon: "#D1D8E0",
         tutoco: "#326FB4",
+        meetbutton: "#003366",
+        footercolor: "#C5DCFF"
       },
       fontSize: {
         metatitle: ["12px", "20px"],

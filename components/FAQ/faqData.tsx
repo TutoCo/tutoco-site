@@ -14,7 +14,7 @@ const faqData: FAQ[] = [
   {
     id: 3,
     quest: "What if I have to cancel or reschedule my tutoring session? Will I be refunded?",
-    ans: "If the tutee needs to cancel or reschedule their tutoring session, they will be refunded as long as the request is made 24 hours in advance. If the cancellation or rescheduling request is made less than 24 hours in advance, we will charge an $8 fee.",
+    ans: "If the tutee needs to cancel or reschedule their tutoring session, they will be refunded as long as the request is made 48 hours in advance. If the cancellation or rescheduling request is made less than 48 hours in advance, we will charge an $8 fee.",
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const faqData: FAQ[] = [
   {
     id: 8,
     quest: "What if I still have important unanswered questions regarding TutoCo?",
-    ans: "Feel free to email us at <a href='mailto:tutoco.team@gmail.com'><b>tutoco.team@gmail.com</b></a> or use the google form in <a href='/support'><b>our support page</b></a> with any important questions or concerns!",
+    ans: "Feel free to email us at <a href='mailto:tutoco.team@gmail.com'><b>tutoco.team@gmail.com</b></a> with any important questions or concerns!",
   },
 ];
 

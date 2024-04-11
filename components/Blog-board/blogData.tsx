@@ -52,22 +52,6 @@ const BlogData: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
-    title: "Valeska Peraza",
-    role: "Marketing Team Member",
-    metadata:
-      "I'm Valeska (she/her), a marketing team member, and part of class of 2025 at RMHS. I'm fluent in both Spanish and English, but I love learning new languages. When I'm not learning another language, you'll likely find me drawing or listening to music. Fun fact: I've been to (around) 19 concerts!!",
-  },
-  {
-    _id: 1,
-    mainImage: "/images/blog/blog-01.png",
-    title: "Aryan Chanda",
-    role: "Marketing Team Member",
-    metadata:
-      "I'm Aryan, a marketing team member and content creator at TutoCo. I enjoy music and am excited to be a part of the team!",
-  },
-  {
-    _id: 1,
-    mainImage: "/images/blog/blog-01.png",
     title: "Ruslan Akmyradov",
     role: "Marketing Team Member",
     metadata:

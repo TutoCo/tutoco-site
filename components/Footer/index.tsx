@@ -5,7 +5,7 @@ import Image from "next/image";
 const Footer = () => {
   return (
     <>
-      <footer className="border-t border-stroke bg-white dark:border-strokedark dark:bg-blacksection">
+      <footer className="border-t border-stroke bg-footercolor dark:border-strokedark dark:bg-blacksection">
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
           {/* <!-- Footer Top --> */}
           <div className="py-10 lg:py-15">
@@ -252,8 +252,8 @@ const Footer = () => {
             >
               <ul className="flex items-center gap-8">
                 <li>
-                  <a href="#" className="hover:text-primary">
-                    Privacy Policy
+                  <a href="https://docs.google.com/document/d/1HkkjLT7GsDHejI2MxPjw3B0sKjGzEUgStE9PSsUTr7s/edit?usp=sharing" className="hover:text-primary" target="_blank">
+                    Code of Conduct
                   </a>
                 </li>
               </ul>
@@ -304,7 +304,7 @@ const Footer = () => {
                 <li>
                   <a href="https://www.instagram.com/tutoco_/" aria-label="social icon" target="_blank">
                     <svg
-                      className="fill-[#D1D8E0] transition-all duration-300 hover:fill-primary"
+                      className="fill-[#757693] transition-all duration-300 hover:fill-primary"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"

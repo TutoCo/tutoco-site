@@ -30,10 +30,15 @@ export default function DocsPage() {
                 <p>
                   Here you'll find all the subjects that are offered for tutoring help by TutoCo, along with descriptions.
                 </p>
+                <a href="https://docs.google.com/document/d/1_lie9Jntem0DCETF7ZKXu7wzsxO8-j-nXWjG68nwdTs/edit?usp=sharing" target="_blank" className="font-bold">
+                  <p>
+                    <b>For more information on subjects and payments, click here.</b>
+                  </p>
+                </a>
               </div>
               {/*Subject Tab*/}
               {subjectsData.map((subject, key) => (
-              <SingleSubject subject={subject} key={key} />
+                <SingleSubject subject={subject} key={key} />
               ))}
             </div>
           </div>

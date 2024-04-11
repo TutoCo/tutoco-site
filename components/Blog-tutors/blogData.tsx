@@ -10,7 +10,7 @@ const BlogData: Blog[] = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
   },
   {
-    _id: 2,
+    _id: 1,
     mainImage: "/images/blog/blog-02.png",
     title: "9 simple ways to improve your design skills",
     role: "Executive Director",
@@ -18,7 +18,7 @@ const BlogData: Blog[] = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
   },
   {
-    _id: 2,
+    _id: 1,
     mainImage: "/images/blog/blog-03.png",
     title: "Tips to quickly improve your coding speed.",
     role: "Executive Director",
@@ -34,7 +34,7 @@ const BlogData: Blog[] = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
   },
   {
-    _id: 2,
+    _id: 1,
     mainImage: "/images/blog/blog-04.png",
     title: "9 simple ways to improve your design skills",
     role: "Executive Director",
@@ -42,7 +42,7 @@ const BlogData: Blog[] = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
   },
   {
-    _id: 2,
+    _id: 1,
     mainImage: "/images/blog/blog-01.png",
     title: "Tips to quickly improve your coding speed.",
     role: "Executive Director",

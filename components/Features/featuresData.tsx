@@ -13,7 +13,7 @@ const featuresData: Feature[] = [
     icon: "/images/icon/icon-09.svg",
     title: "Customization",
     description:
-      "Students can choose their class subjects, times, lengths, and dates to match their preferences.",
+      "Students can choose their class subjects, times, and dates to match their preferences.",
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const featuresData: Feature[] = [
     icon: "/images/icon/icon-11.svg",
     title: "Afforability",
     description:
-      "Every class costs only $15 per hour and money goes directly to support tutors.",
+      "Every class costs only $15 - 45 per hour and money goes directly to support tutors.",
   },
   {
     id: 6,

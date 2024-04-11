@@ -57,10 +57,6 @@ const Signup = () => {
             <p className="mb-2 text-tutoco font-bold">
               Enter your information using the form below, follow the instructions on the form, and we'll notify you with additional information.
             </p>
-            <p className="mb-5 text-tutoco font-medium">
-              When you are assigned a tutor, feel free to reach out to them with concerns, and to schedule lessons.
-              Once you've established a lesson plan, we'll notify you to set up payments.
-            </p>
             <p className="mb-2 text-tutoco font-bold">
               Before signing-up, keep in mind:
             </p>
@@ -72,7 +68,7 @@ const Signup = () => {
                 Check your email for updates regularly
               </li>
               <li>
-                The cost for 1 hour of tutoring is $15 (USD)
+              If you need to cancel or reschedule a tutoring session, you must do so at least 48 hours before a session by emailing us at tutoco.team@gmail.com
               </li>
             </ul>
             <div className="flex items-center gap-8">
