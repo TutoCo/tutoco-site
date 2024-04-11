@@ -19,15 +19,23 @@ const Blog = async () => {
           {BlogData_exec.slice(0, 3).map((blog, key) => (
             <BlogItem blog={blog} key={key} />
           ))}
+        </div>
+        <div className="grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
           {BlogData_mark.slice(0, 3).map((blog, key) => (
             <BlogItem blog={blog} key={key} />
           ))}
+        </div>
+        <div className="grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
           {BlogData_tuto.slice(0, 3).map((blog, key) => (
             <BlogItem blog={blog} key={key} />
           ))}
+        </div>
+        <div className="grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
           {BlogData_comm.slice(0, 3).map((blog, key) => (
             <BlogItem blog={blog} key={key} />
           ))}
+        </div>
+        <div className="grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
           {BlogData_logi.slice(0, 3).map((blog, key) => (
             <BlogItem blog={blog} key={key} />
           ))}
