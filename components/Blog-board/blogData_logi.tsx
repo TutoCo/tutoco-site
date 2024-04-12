@@ -7,7 +7,7 @@ const BlogData_logi: Blog[] = [
     title: "David Sy",
     role: "Director of Logistics",
     metadata:
-      "David Sy is a logistics director for TutoCo. His interests and hobbies include competitive programming; algorithms and heuristics; computational complexity theory, information theory, and combinatorics; cooking eggs; and coin flipping. He hopes to soon master flipping eggs and cooking coins.",
+      "David Sy is a logistics director for TutoCo. His interests and hobbies include algorithms and heuristics, complexity theory, combinatorics, cooking eggs, and coin flipping. He hopes to soon master flipping eggs and cooking coins.",
   },
   {
     _id: 1,
