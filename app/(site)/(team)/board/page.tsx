@@ -24,8 +24,8 @@ const BlogPage = async () => {
             <SectionHeader
               headerInfo={{
                 title: `TutoCo Team`,
-                subtitle: `The Executive Board`,
-                description: ``,
+                subtitle: `Our Directors`,
+                description: `The individuals running TutoCo`,
               }}
             />
           </div>
@@ -37,27 +37,27 @@ const BlogPage = async () => {
           {BlogData_exec.slice(0, 3).map((blog, key) => (
             <BlogItem blog={blog} key={key} />
           ))}
-        </div>
-        <div className="grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
-          {BlogData_mark.slice(0, 3).map((blog, key) => (
-            <BlogItem blog={blog} key={key} />
-          ))}
-        </div>
-        <div className="grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
-          {BlogData_tuto.slice(0, 3).map((blog, key) => (
-            <BlogItem blog={blog} key={key} />
-          ))}
-        </div>
-        <div className="grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
-          {BlogData_comm.slice(0, 3).map((blog, key) => (
-            <BlogItem blog={blog} key={key} />
-          ))}
-        </div>
-        <div className="grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
-          {BlogData_logi.slice(0, 3).map((blog, key) => (
-            <BlogItem blog={blog} key={key} />
-          ))}
-        </div>
+          </div>
+          <div className="mt-3 grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
+            {BlogData_mark.slice(0, 3).map((blog, key) => (
+              <BlogItem blog={blog} key={key} />
+            ))}
+          </div>
+          <div className="mt-3 grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
+            {BlogData_tuto.slice(0, 3).map((blog, key) => (
+              <BlogItem blog={blog} key={key} />
+            ))}
+          </div>
+          <div className="mt-3 grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
+            {BlogData_comm.slice(0, 3).map((blog, key) => (
+              <BlogItem blog={blog} key={key} />
+            ))}
+          </div>
+          <div className="mt-3 grid grid-cols-1 gap-7.5 md:grid-cols-2 lg:grid-cols-3 xl:gap-10">
+            {BlogData_logi.slice(0, 3).map((blog, key) => (
+              <BlogItem blog={blog} key={key} />
+            ))}
+          </div>
         </div>
       </section>
       {/* <!-- ===== Blog Grid End ===== --> */}
