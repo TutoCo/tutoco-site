@@ -24,8 +24,8 @@ const BlogPage = async () => {
             <SectionHeader
               headerInfo={{
                 title: `TutoCo Team`,
-                subtitle: `Our Directors`,
-                description: `The individuals running TutoCo`,
+                subtitle: `Board and Directors`,
+                description: ``,
               }}
             />
           </div>
