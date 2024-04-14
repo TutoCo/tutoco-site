@@ -7,7 +7,9 @@ const Integration = () => {
   return (
     <>
       <section>
-        <div className="mx-auto max-w-c-1390 py-40 px-4 md:px-8 2xl:px-0 text-tutoco font-medium">
+{/*         <div className="mx-auto max-w-c-1390 py-40 px-4 md:px-8 2xl:px-0 text-tutoco font-medium"> */}
+        <div className={"mx-auto max-w-c-1390 py-40 px-4 md:px-8 2xl:px-0 text-tutoco font-medium ${activeFaq === id ? "block" : "hidden"}"}
+          dangerouslySetInnerHTML={{__html:ans}}>
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
