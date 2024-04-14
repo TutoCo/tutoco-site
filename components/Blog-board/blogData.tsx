@@ -3,7 +3,7 @@ import { Blog } from "@/types/blog";
 const BlogData: Blog[] = [
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/jianga.png",
     title: "Andrew Jiang",
     role: "Executive Director",
     metadata:
@@ -11,7 +11,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-02.png",
+    mainImage: "/images/blog/board_profile_pictures/zhouc.png",
     title: "Caroline Zhou",
     role: "Executive Director",
     metadata:
@@ -19,7 +19,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-03.png",
+    mainImage: "/images/blog/board_profile_pictures/wanj.png",
     title: "Jennifer Wan",
     role: "Executive Director",
     metadata:
@@ -27,7 +27,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-03.png",
+    mainImage: "/images/blog/board_profile_pictures/shengj.jpg",
     title: "Johnny Sheng",
     role: "Director of Marketing",
     metadata:
@@ -35,7 +35,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-04.png",
+    mainImage: "/images/blog/board_profile_pictures/wuj.jpg",
     title: "Jingjing Wu",
     role: "Director of Marketing",
     metadata:
@@ -43,7 +43,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/carterh.jpg",
     title: "Hannah Carter",
     role: "Marketing Team Member",
     metadata:
@@ -51,7 +51,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/akmyradovr.jpg",
     title: "Ruslan Akmyradov",
     role: "Marketing Team Member",
     metadata:
@@ -59,7 +59,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/yuengy.jpg",
     title: "Yun Yeung",
     role: "Director of Tutors",
     metadata:
@@ -67,7 +67,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/chenga.jpg",
     title: "April Cheng",
     role: "Director of Tutors",
     metadata:
@@ -75,7 +75,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/palomaf.jpg",
     title: "Francis Paloma",
     role: "Assistant Director of Tutors",
     metadata:
@@ -83,7 +83,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/fungc.jpg",
     title: "Charisse Fung",
     role: "Assistant Director of Tutors",
     metadata:
@@ -91,7 +91,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/guoa.jpg",
     title: "Andrew Guo",
     role: "Director of Communications",
     metadata:
@@ -99,7 +99,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/panm.jpg",
     title: "Michelle Pan",
     role: "Director of Communications",
     metadata:
@@ -107,7 +107,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/buia.jpg",
     title: "Aiden Bui",
     role: "Assistant Director of Communications",
     metadata:
@@ -115,7 +115,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/nambiara.png",
     title: "Anurag Nambiar",
     role: "Assistant Director of Communications",
     metadata:
@@ -123,7 +123,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/zhangj.png",
     title: "James Zhang",
     role: "Assistant Director of Communications",
     metadata:
@@ -131,7 +131,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/syd.jpg",
     title: "David Sy",
     role: "Director of Logistics",
     metadata:
@@ -139,7 +139,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/zhangi.jpg",
     title: "Ivan Zhang",
     role: "Director of Logistics",
     metadata:
@@ -147,7 +147,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/board_profile_pictures/rathiv.jpg",
     title: "Vihaan Rathi",
     role: "Director of Logistics",
     metadata:
