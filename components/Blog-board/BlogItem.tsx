@@ -28,9 +28,9 @@ const BlogItem = ({ blog }: { blog: Blog }) => {
         className="animate_top rounded-lg bg-white p-4 pb-9 shadow-solid-8 dark:bg-blacksection"
       >
 {/*         <Link href={`/blog/`} className="relative block aspect-[368/239]">
-          <Image src={mainImage} alt={title} fill />
+          <Image src={mainImage} alt={title} fill /> object-contain  items-center
         </Link> */}
-        <Link href={`/blog/`} className="relative block">
+        <Link href={`/blog/`} className="relative block mx-auto">
           <Image src={mainImage} alt={title} />
         </Link>
 
