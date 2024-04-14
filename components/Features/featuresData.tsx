@@ -32,7 +32,7 @@ const featuresData: Feature[] = [
   {
     id: 5,
     icon: "/images/icon/icon-11.svg",
-    title: "Afforability",
+    title: "Affordability",
     description:
       "Every class costs only $15 - 45 per hour and money goes directly to support tutors.",
   },
