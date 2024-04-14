@@ -31,7 +31,7 @@ const BlogData: Blog[] = [
     title: "Johnny Sheng",
     role: "Director of Marketing",
     metadata:
-      "I'm Johnny, a junior at Richard Montgomery High School who is interested in graphic design and public health. Having experienced four different school systems, I am extremely excited to be a part of TutoCo! ",
+      "Johnny Sheng is a junior at Richard Montgomery High School who is interested in graphic design and public health. Having experienced four different school systems, he is extremely excited to be a part of TutoCo!",
   },
   {
     _id: 1,
@@ -39,7 +39,7 @@ const BlogData: Blog[] = [
     title: "Jingjing Wu",
     role: "Director of Marketing",
     metadata:
-      "Hi, my name is Jingjing! I am a junior at Montgomery Blair High School and some of my favorite pastimes are baking and listening to music. I'm excited to be a part of what TutuCo has to offer!",
+      "Jingjing Wu is a junior at Montgomery Blair High School. Some of her favorite pastimes are baking and listening to music. She is excited to be a part of what TutuCo has to offer!",
   },
   {
     _id: 1,
@@ -47,7 +47,7 @@ const BlogData: Blog[] = [
     title: "Hannah Carter",
     role: "Marketing Team Member",
     metadata:
-      "My name is Hannah and I am currently a sophomore at Richard Montgomery High School. For the past two years, I've been looking into marketing and business by taking online classes and collaborating with other students in those fields. I'm very excited to be joining the marketing team at TutoCo!",
+      "Hannah Carter is a sophomore at Richard Montgomery High School. For the past two years, Hannah has been looking into marketing and business by taking online classes and collaborating with other students in those fields. She is very excited to be joining the marketing team at TutoCo!",
   },
   {
     _id: 1,
@@ -55,7 +55,7 @@ const BlogData: Blog[] = [
     title: "Ruslan Akmyradov",
     role: "Marketing Team Member",
     metadata:
-      "Hey, I'm Ruslan. I am currently a junior at Richard Montgomery High School. I love playing music and collecting things.",
+      "Ruslan Akmyradov is a junior at Richard Montgomery High School. He loves playing music and collecting things.",
   },
   {
     _id: 1,
@@ -63,7 +63,7 @@ const BlogData: Blog[] = [
     title: "Yun Yeung",
     role: "Director of Tutors",
     metadata:
-      "Hi! My name is Yun Yeung, a junior at Montgomery Blair High School. A little about myself is that in my free time, I enjoy hanging out with my friends, eating delicious food, and reading books. I hope that, by working with TutoCo, I can contribute towards improving our community!",
+      "Yun Yeung is a junior at Montgomery Blair High School. In his free time, he enjoys hanging out with his friends, eating delicious food, and reading books. By working with TutoCo, Yun hopes that he can contribute towards improving the community!",
   },
   {
     _id: 1,
@@ -71,7 +71,7 @@ const BlogData: Blog[] = [
     title: "April Cheng",
     role: "Director of Tutors",
     metadata:
-      "Hi, my name is April Cheng. I'm 16, and a current junior at Wootton High School. My favorite hobbies are painting and taking walks around my neighborhood.",
+      "April Cheng is 16 and a current junior at Wootton High School. Her favorite hobbies are painting and taking walks around her neighborhood.",
   },
   {
     _id: 1,
@@ -79,7 +79,7 @@ const BlogData: Blog[] = [
     title: "Francis Paloma",
     role: "Assistant Director of Tutors",
     metadata:
-      "I'm Francis, I'm an 11th grader in the IB program at Richard Montgomery High School. I love to cook and play video games, but I also love teaching and education! I've been tutoring since I started high school. I work at a daycare after school and teach a Sunday school class at my church. My mother has been a special needs teacher her whole life and I plan to follow in her footsteps. I'm excited to work with everyone!",
+      "Francis Paloma is an 11th grader in the IB program at Richard Montgomery High School. He loves to cook and play video games, and also loves teaching and education! He has been tutoring since he started high school. Francis works at a daycare after school and teaches a Sunday school class at his church. His mother has been a special needs teacher her whole life and Francis plans to follow in her footsteps. He is excited to work with everyone!",
   },
   {
     _id: 1,
@@ -95,7 +95,7 @@ const BlogData: Blog[] = [
     title: "Andrew Guo",
     role: "Director of Communications",
     metadata:
-      "Hey! I'm Andrew, a junior at Winston Churchill High School. I run a marketing blog (MarketZ) with my friend. Outside of writing articles, you can catch me gaming, practicing flute and piano, or trying out various foods.",
+      "Andrew Guo is a junior at Winston Churchill High School. He runs MarketZ, a marketing blog, with a friend. Outside of writing articles, you can catch Andrew gaming, practicing flute and piano, or trying out various foods.",
   },
   {
     _id: 1,
@@ -103,7 +103,7 @@ const BlogData: Blog[] = [
     title: "Michelle Pan",
     role: "Director of Communications",
     metadata:
-      "Hello, my name is Michelle Pan. I love psychology and neuroscience and plan on becoming a psychiatrist in the future. Some hobbies that I enjoy include playing the flute, reading, and doodling. I look forward to being the director of communications for TutoCo!",
+      "Michelle Pan is a student at Winston Churchill High School. She loves psychology and neuroscience and plans on becoming a psychiatrist in the future. Some hobbies that Michelle enjoys include playing the flute, reading, and doodling. She looks forward to being the TutoCo director of communications!",
   },
   {
     _id: 1,
@@ -111,7 +111,7 @@ const BlogData: Blog[] = [
     title: "Aiden Bui",
     role: "Assistant Director of Communications",
     metadata:
-      "Hello! My name is Aiden Bui, and I am a freshman at WCTA in Nevada. One of my many passions is piano, which I have played for over 8 years! I also love competing and putting a smile on others' faces!",
+      "Aiden Bui is a freshman at the West Career & Technical Academy in Nevada. One of Aiden’s many passions is piano, which he has played for over 8 years! Aiden also loves competing and putting a smile on others’ faces!",
   },
   {
     _id: 1,
@@ -119,7 +119,7 @@ const BlogData: Blog[] = [
     title: "Anurag Nambiar",
     role: "Assistant Director of Communications",
     metadata:
-      "Hi, my name is Anurag. I'm a junior at Richard Montgomery High School, and I like debate, backpacking, and mint chocolate chip.",
+      "Anurag Nambiar is a junior at Richard Montgomery High School, and he likes debate, backpacking, and mint chocolate chip.",
   },
   {
     _id: 1,
@@ -127,7 +127,7 @@ const BlogData: Blog[] = [
     title: "James Zhang",
     role: "Assistant Director of Communications",
     metadata:
-      "Hi, I'm James! I'm a junior at Richard Montgomery High School. I enjoy table tennis and violin—ask me any questions about them!",
+      "James Zhang is a junior at Richard Montgomery High School. He enjoys table tennis and violin—ask him any questions about them!",
   },
   {
     _id: 1,
@@ -143,7 +143,7 @@ const BlogData: Blog[] = [
     title: "Ivan Zhang",
     role: "Director of Logistics",
     metadata:
-      "Hello, I'm Ivan, a junior at Richard Montgomery High School. Academically, I'm very interested in STEM, particularly computer science. Some of my other hobbies include playing the trumpet and fishing.",
+      "Ivan Zhang is a junior at Richard Montgomery High School. Academically, he is very interested in STEM, particularly computer science. Some of Ivan’s other hobbies include playing the trumpet and fishing.",
   },
   {
     _id: 1,
@@ -151,7 +151,7 @@ const BlogData: Blog[] = [
     title: "Vihaan Rathi",
     role: "Director of Logistics",
     metadata:
-      "Hi! I'm Vihaan, a junior at Richard Montgomery High School and the Director of Logistics for TutoCo. I love teaching and am super excited to help our tutors and tutees navigate the dangerous world of time management.",
+      "Vihaan Rathi is a junior at Richard Montgomery High School and the Director of Logistics for TutoCo. He loves teaching and is super excited to help TutoCo’s tutors and tutees navigate the dangerous world of time management.",
   },
 ];
 
