@@ -13,7 +13,7 @@ const Integration = () => {
             headerInfo={{
               title: `What Sets Us Apart`,
               subtitle: `Unlike other tutoring companies...`,
-              description: `TutoCo was founded by students of the International Baccalaureate Program (IB). 
+              description: `TutoCo was founded by students of the <a href='https://ibo.org/'><b>International Baccalaureate Program (IB)</b></a>. 
               IB offers rigorous coursework to high school students, broadening their perspectives and academic 
               interests through college-level material. Our experience has allowed us to offer an environment 
               that no other tutoring companies can create, specifically tailored to build an interactive and 
