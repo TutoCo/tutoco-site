@@ -39,7 +39,7 @@ const menuData: Menu[] = [
     submenu: [
       {
         id: 31,
-        title: "Executive Board",
+        title: "Board + Directors",
         newTab: false,
         path: "/board",
       },
