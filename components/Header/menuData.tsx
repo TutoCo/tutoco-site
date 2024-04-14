@@ -43,12 +43,18 @@ const menuData: Menu[] = [
         newTab: false,
         path: "/board",
       },
-      {
-        id: 32,
-        title: "Our Tutors",
-        newTab: false,
-        path: "/our-tutors",
-      },
+      // {
+      //   id: 32,
+      //   title: "Our Tutors",
+      //   newTab: false,
+      //   path: "/our-tutors",
+      // },
+      // {
+      //   id: 33,
+      //   title: "DevOps",
+      //   newTab: false,
+      //   path: "/devops",
+      // },
     ],
   },
 ];
