@@ -35,7 +35,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/wuj.jpg",
+    mainImage: "/images/blog/board_profile_pictures/wuj_crop.jpg",
     title: "Jingjing Wu",
     role: "Director of Marketing",
     metadata:
@@ -67,7 +67,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/chenga.jpg",
+    mainImage: "/images/blog/board_profile_pictures/chenga_crop.jpg",
     title: "April Cheng",
     role: "Director of Tutors",
     metadata:
@@ -75,7 +75,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/palomaf.png",
+    mainImage: "/images/blog/board_profile_pictures/palomaf_crop.png",
     title: "Francis Paloma",
     role: "Assistant Director of Tutors",
     metadata:
@@ -135,7 +135,7 @@ const BlogData: Blog[] = [
     title: "David Sy",
     role: "Director of Logistics",
     metadata:
-      "David Sy is a logistics director for TutoCo. His interests and hobbies include competitive programming; algorithms and heuristics; computational complexity theory, information theory, and combinatorics; cooking eggs; and coin flipping. He hopes to soon master flipping eggs and cooking coins.",
+      "David Sy is a logistics director for TutoCo. His interests and hobbies include algorithms and heuristics, complexity theory, combinatorics, cooking eggs, and coin flipping. He hopes to soon master flipping eggs and cooking coins.",
   },
   {
     _id: 1,
@@ -147,7 +147,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/rathiv.jpg",
+    mainImage: "/images/blog/board_profile_pictures/rathiv_crop.jpg",
     title: "Vihaan Rathi",
     role: "Director of Logistics",
     metadata:
