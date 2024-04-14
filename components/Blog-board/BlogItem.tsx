@@ -30,8 +30,8 @@ const BlogItem = ({ blog }: { blog: Blog }) => {
 {/*         <Link href={`/blog/`} className="relative block aspect-[368/239]">
           <Image src={mainImage} alt={title} fill />
         </Link> */}
-        <Link href={`/blog/`} className="relative block object-contain h-239 items-center">
-          <Image src={mainImage} alt={title} />
+        <Link href={`/blog/`} className="relative block items-center">
+          <Image src={mainImage} alt={title} layout={'fill'} objectFit={'contain'}/>
         </Link>
 
         <div className="px-4">
