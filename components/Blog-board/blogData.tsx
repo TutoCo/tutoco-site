@@ -27,7 +27,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/shengj.jpg",
+    mainImage: "/images/blog/board_profile_pictures/shengj.png",
     title: "Johnny Sheng",
     role: "Director of Marketing",
     metadata:
@@ -75,7 +75,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/palomaf.jpg",
+    mainImage: "/images/blog/board_profile_pictures/palomaf.png",
     title: "Francis Paloma",
     role: "Assistant Director of Tutors",
     metadata:
