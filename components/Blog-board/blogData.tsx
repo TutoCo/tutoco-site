@@ -35,7 +35,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/wuj_crop.jpg",
+    mainImage: "/images/blog/board_profile_pictures/wuj.jpg",
     title: "Jingjing Wu",
     role: "Director of Marketing",
     metadata:
@@ -43,7 +43,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/carterh.jpg",
+    mainImage: "/images/blog/board_profile_pictures/carterh.png",
     title: "Hannah Carter",
     role: "Marketing Team Member",
     metadata:
@@ -67,7 +67,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/chenga_crop.jpg",
+    mainImage: "/images/blog/board_profile_pictures/chenga.jpg",
     title: "April Cheng",
     role: "Director of Tutors",
     metadata:
@@ -75,7 +75,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/palomaf_crop.png",
+    mainImage: "/images/blog/board_profile_pictures/palomaf.png",
     title: "Francis Paloma",
     role: "Assistant Director of Tutors",
     metadata:
@@ -83,7 +83,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/fungc.jpg",
+    mainImage: "/images/blog/board_profile_pictures/fungc.png",
     title: "Charisse Fung",
     role: "Assistant Director of Tutors",
     metadata:
@@ -91,7 +91,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/guoa.jpg",
+    mainImage: "/images/blog/board_profile_pictures/guoa.png",
     title: "Andrew Guo",
     role: "Director of Communications",
     metadata:
@@ -99,7 +99,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/panm.jpg",
+    mainImage: "/images/blog/board_profile_pictures/panm.png",
     title: "Michelle Pan",
     role: "Director of Communications",
     metadata:
@@ -147,7 +147,7 @@ const BlogData: Blog[] = [
   },
   {
     _id: 1,
-    mainImage: "/images/blog/board_profile_pictures/rathiv_crop.jpg",
+    mainImage: "/images/blog/board_profile_pictures/rathiv.jpg",
     title: "Vihaan Rathi",
     role: "Director of Logistics",
     metadata:
