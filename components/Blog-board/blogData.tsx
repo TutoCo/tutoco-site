@@ -153,6 +153,14 @@ const BlogData: Blog[] = [
     metadata:
       "Vihaan Rathi is a junior at Richard Montgomery High School and the Director of Logistics for TutoCo. He loves teaching and is super excited to help TutoCo’s tutors and tutees navigate the dangerous world of time management.",
   },
+  {
+    _id: 1,
+    mainImage: "/images/blog/board_profile_pictures/lig.jpg",
+    title: "Grace Li",
+    role: "Director of Outreach",
+    metadata:
+      "Grace Li is a sophomore at Richard Montgomery High School. She loves to dance, read fantasy and murder mysteries, and eat good food. Grace has worked in outreach for various student-run organizations, and is excited to do that for TutoCo too!",
+  },
 ];
 
 export default BlogData;
