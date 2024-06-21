@@ -161,6 +161,14 @@ const BlogData: Blog[] = [
     metadata:
       "Grace Li is a sophomore at Richard Montgomery High School. She loves to dance, read fantasy and murder mysteries, and eat good food. Grace has worked in outreach for various student-run organizations, and is excited to do that for TutoCo too!",
   },
+  {
+    _id: 1,
+    mainImage: "/images/blog/board_profile_pictures/weik.png",
+    title: "Kevin Wei",
+    role: "Director of Outreach",
+    metadata:
+      "Kevin Wei is a junior at Thomas S. Wootton High School. Some hobbies he enjoys are playing the violin, dancing, and spending time with family and friends! He is also a big foodie and enjoys finding new food places to go. As the Director of Outreach, Kevin looks forward to helping TutoCo reach new audiences and give opportunities for more students to have accessible quality education!",
+  },
 ];
 
 export default BlogData;
